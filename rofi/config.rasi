@@ -1,7 +1,5 @@
 configuration {
-/*  font: "undefined medium 12"; */
-/*  font: "GoMono Nerd Font 14"; */
-    font: "BlexMono Nerd Font 14";
+    font: "JetBrains Mono Nerd Font 14";
 }
 
-@theme "gruvbox-dark-hard"
+@theme "matcha"

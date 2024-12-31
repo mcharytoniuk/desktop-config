@@ -1,27 +1,24 @@
 [colors.primary]
 background = "#000000"
-foreground = "#c5c8c6"
+foreground = "#f5f5f5"
 
 [font]
 size = 14
 
 [font.normal]
-family = "BlexMono Nerd Font"
-# family = "BigBlueTermPlus Nerd Font"
-# family = "GohuFont 14 Nerd Font Propo"
-# family = "GoMono Nerd Font"
+family = "JetBrainsMono Nerd Font"
 
 [font.offset]
-y = 6
+y = 8
 
 [window]
 decorations = "none"
-opacity = 0.8
+opacity = 0.9
 
 [window.dimensions]
 columns = 80
 lines = 20
 
 [window.padding]
-x = 8
-y = 8
+x = 12
+y = 12
